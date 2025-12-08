@@ -21,8 +21,21 @@ I'm a Data-Focused Developer and SCRUM Practitioner based in Guadalajara, Mexico
 | :--- | :--- |
 | **Databases** | Oracle Database (SQL, PL/SQL), SQL Developer |
 | **Web Development** | Oracle APEX, HTML5, CSS, JavaScript |
-| **Metodología** | SCRUM (Agile) |
+| **Methodology** | SCRUM (Agile) |
 | **Version Control** | Git / GitHub |
+
+#### 📬 Contact & Personal
+
+When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my family, specifically planning the day with my daughters, Inés and Majo. Finding that crucial work-life balance fuels my efficiency.
+
+| Platform | Link |
+| :--- | :--- |
+| **📍 Location** | Guadalajara, Jalisco, México |
+| **📧 Email** | [tu.email@ejemplo.com] |
+| **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
+| **💻 GitHub Profile** | https://github.com/aguilavajz |
+| **☕ Support Me** | https://buymeacoffee.com/vinnyum |
+| **🗓️ Schedule a Coffee** | https://calendly.com/aguilavajz/coffee |
 
 ---
 
@@ -42,32 +55,32 @@ Soy un Desarrollador enfocado en Datos y un Practicante de SCRUM con base en Gua
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Bases de Datos** | Oracle Database (SQL, PL/SQL), SQL Developer |
-| **Web Development** | Oracle APEX, HTML5, CSS, JavaScript |
+| **Desarrollo Web** | Oracle APEX, HTML5, CSS, JavaScript |
 | **Metodología** | SCRUM (Agile) |
 | **Control de Versiones** | Git / GitHub |
+
+#### 📬 Contacto y Personal
+
+Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico mi tiempo a mi familia, específicamente a planificar el día con mis hijas, Inés y Majo. Encontrar ese equilibrio crucial entre el trabajo y la vida personal impulsa mi eficiencia.
+
+| Plataforma | Enlace |
+| :--- | :--- |
+| **📍 Ubicación** | Guadalajara, Jalisco, México |
+| **📧 Correo Electrónico** | [tu.email@ejemplo.com] |
+| **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
+| **💻 Perfil de GitHub** | https://github.com/aguilavajz |
+| **☕ Apóyame** | https://buymeacoffee.com/vinnyum |
+| **🗓️ Agenda un Café** | https://calendly.com/aguilavajz/coffee |
 
 ---
 
 ### 📊 GitHub Activity (Stats)
 
+Utiliza tarjetas dinámicas para mostrar tus estadísticas y lenguajes principales:
+
 <div align="center">
-  ![Vinny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguilavajz&show_icons=true&theme=buefy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilavajz&layout=compact&theme=buefy)
+  ![Vinny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguilavajz&show_icons=true&theme=buefy&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilavajz&layout=compact&theme=buefy&count_private=true)
 </div>
-
----
-
-### 👨‍👩‍👧‍👧 Personal & Contact
-
-When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my family, specifically planning the day with my daughters, Inés and Majo. Finding that crucial work-life balance fuels my efficiency.
-
-| Platform | Link |
-| :--- | :--- |
-| **📍 Location** | Guadalajara, Jalisco, México |
-| **📧 Email** | v_jimenez_zdio@hotmail.com |
-| **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
-| **💻 GitHub Profile** | https://github.com/aguilavajz |
-| **☕ But me a coffee** | https://buymeacoffee.com/vinnyum |
-| **🗓️ Schedule a virtual coffee** | https://calendly.com/aguilavajz/coffee |
 
 ---
