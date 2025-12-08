@@ -21,7 +21,7 @@ I'm a Data-Focused Developer and SCRUM Practitioner based in Guadalajara, Mexico
 | :--- | :--- |
 | **Databases** | Oracle Database (SQL, PL/SQL), SQL Developer |
 | **Web Development** | Oracle APEX, HTML5, CSS, JavaScript |
-| **Methodology** | SCRUM (Agile) |
+| **Metodología** | SCRUM (Agile) |
 | **Version Control** | Git / GitHub |
 
 #### 📬 Contact & Personal
@@ -31,7 +31,7 @@ When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my 
 | Platform | Link |
 | :--- | :--- |
 | **📍 Location** | Guadalajara, Jalisco, México |
-| **📧 Email** | [tu.email@ejemplo.com] |
+| **📧 Email** | v_jimenez_zdio@hotmail.com |
 | **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
 | **💻 GitHub Profile** | https://github.com/aguilavajz |
 | **☕ Support Me** | https://buymeacoffee.com/vinnyum |
@@ -55,7 +55,7 @@ Soy un Desarrollador enfocado en Datos y un Practicante de SCRUM con base en Gua
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Bases de Datos** | Oracle Database (SQL, PL/SQL), SQL Developer |
-| **Desarrollo Web** | Oracle APEX, HTML5, CSS, JavaScript |
+| **Web Development** | Oracle APEX, HTML5, CSS, JavaScript |
 | **Metodología** | SCRUM (Agile) |
 | **Control de Versiones** | Git / GitHub |
 
@@ -66,7 +66,7 @@ Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico
 | Plataforma | Enlace |
 | :--- | :--- |
 | **📍 Ubicación** | Guadalajara, Jalisco, México |
-| **📧 Correo Electrónico** | [tu.email@ejemplo.com] |
+| **📧 Correo Electrónico** | v_jimenez_zdio@hotmail.com |
 | **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
 | **💻 Perfil de GitHub** | https://github.com/aguilavajz |
 | **☕ Apóyame** | https://buymeacoffee.com/vinnyum |
@@ -80,7 +80,7 @@ Utiliza tarjetas dinámicas para mostrar tus estadísticas y lenguajes principal
 
 <div align="center">
   ![Vinny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguilavajz&show_icons=true&theme=buefy&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilavajz&layout=compact&theme=buefy&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilavajz&layout=compact&theme=buefy)
 </div>
 
 ---
