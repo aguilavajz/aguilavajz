@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+    <h1>Hello, World! 👋 I'm Vinny Jimenez</h1>
+</div>
 
-<!--
-**aguilavajz/aguilavajz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🇬🇧 English Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data-Focused Developer and SCRUM Practitioner based in Guadalajara, Mexico. I specialize in building robust, high-performance enterprise solutions within the Oracle ecosystem.
+
+#### Key Expertise:
+
+* **Core Development:** Full-cycle application creation using **Oracle APEX**.
+* **Database Logic:** Deep expertise in writing and tuning **PL/SQL** (packages, stored procedures) for high-speed data processing.
+* **Methodology:** Focused on continuous value delivery through **SCRUM** and Agile principles.
+* **Passion:** Obsessed with process optimization and achieving the "perfect automation."
+
+#### 🛠️ Tech Stack & Tools
+
+| Category | Technologies and Tools |
+| :--- | :--- |
+| **Databases** | Oracle Database (SQL, PL/SQL), SQL Developer |
+| **Web Development** | Oracle APEX, HTML5, CSS, JavaScript |
+| **Metodología** | SCRUM (Agile) |
+| **Version Control** | Git / GitHub |
+
+---
+
+### 🇲🇽 Perfil en Español
+
+Soy un Desarrollador enfocado en Datos y un Practicante de SCRUM con base en Guadalajara, México. Me especializo en la construcción de soluciones empresariales robustas y de alto rendimiento dentro del ecosistema Oracle.
+
+#### Experiencia Clave:
+
+* **Desarrollo Central:** Creación de aplicaciones de ciclo completo utilizando **Oracle APEX**.
+* **Lógica de Bases de Datos:** Experiencia profunda en la escritura y optimización de **PL/SQL** (paquetes, procedimientos almacenados) para el procesamiento rápido de datos.
+* **Metodología:** Impulso la entrega continua de valor a través de **SCRUM** y principios Ágiles.
+* **Pasión:** Obsesionado con la optimización de procesos y lograr la "automatización perfecta."
+
+#### 🛠️ Stack Tecnológico y Herramientas
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Bases de Datos** | Oracle Database (SQL, PL/SQL), SQL Developer |
+| **Web Development** | Oracle APEX, HTML5, CSS, JavaScript |
+| **Metodología** | SCRUM (Agile) |
+| **Control de Versiones** | Git / GitHub |
+
+---
+
+### 📊 GitHub Activity (Stats)
+
+<div align="center">
+  ![Vinny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguilavajz&show_icons=true&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilavajz&layout=compact&theme=buefy)
+</div>
+
+---
+
+### 👨‍👩‍👧‍👧 Personal & Contact
+
+When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my family, specifically planning the day with my daughters, Inés and Majo. Finding that crucial work-life balance fuels my efficiency.
+
+| Platform | Link |
+| :--- | :--- |
+| **📍 Location** | Guadalajara, Jalisco, México |
+| **📧 Email** | v_jimenez_zdio@hotmail.com |
+| **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
+| **💻 GitHub Profile** | https://github.com/aguilavajz |
+| **☕ But me a coffee** | https://buymeacoffee.com/vinnyum |
+| **🗓️ Schedule a virtual coffee** | https://calendly.com/aguilavajz/coffee |
+
+---
