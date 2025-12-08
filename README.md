@@ -8,7 +8,7 @@
 
 I'm a Data-Focused Developer and SCRUM Practitioner based in Guadalajara, Mexico. I specialize in building robust, high-performance enterprise solutions within the Oracle ecosystem.
 
-#### Key Expertise:
+#### Key Expertise
 
 * **Core Development:** Full-cycle application creation using **Oracle APEX**.
 * **Database Logic:** Deep expertise in writing and tuning **PL/SQL** (packages, stored procedures) for high-speed data processing.
@@ -31,11 +31,12 @@ When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my 
 | Platform | Link |
 | :--- | :--- |
 | **📍 Location** | Guadalajara, Jalisco, México |
-| **📧 Email** | v_jimenez_zdio@hotmail.com |
-| **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
-| **💻 GitHub Profile** | https://github.com/aguilavajz |
-| **☕ Support Me** | https://buymeacoffee.com/vinnyum |
-| **🗓️ Schedule a Coffee** | https://calendly.com/aguilavajz/coffee |
+| **📧 Email** | <v_jimenez_zdio@hotmail.com> |
+| **🔗 LinkedIn** | <https://www.linkedin.com/in/vinicio-jim%C3%A9nez/> |
+| **💻 GitHub Profile** | <https://github.com/aguilavajz> |
+| **☕ Support Me** | <https://buymeacoffee.com/vinnyum> |
+| **🗓️ Schedule a Coffee** | <https://calendly.com/aguilavajz/coffee> |
+| **📝 Technical Blog** | <https://insightsapex.hashnode.dev/> |
 
 ---
 
@@ -43,7 +44,7 @@ When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my 
 
 Soy un Desarrollador enfocado en Datos y un Practicante de SCRUM con base en Guadalajara, México. Me especializo en la construcción de soluciones empresariales robustas y de alto rendimiento dentro del ecosistema Oracle.
 
-#### Experiencia Clave:
+#### Experiencia Clave
 
 * **Desarrollo Central:** Creación de aplicaciones de ciclo completo utilizando **Oracle APEX**.
 * **Lógica de Bases de Datos:** Experiencia profunda en la escritura y optimización de **PL/SQL** (paquetes, procedimientos almacenados) para el procesamiento rápido de datos.
@@ -66,11 +67,12 @@ Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico
 | Plataforma | Enlace |
 | :--- | :--- |
 | **📍 Ubicación** | Guadalajara, Jalisco, México |
-| **📧 Correo Electrónico** | v_jimenez_zdio@hotmail.com |
-| **🔗 LinkedIn** | https://www.linkedin.com/in/vinicio-jim%C3%A9nez/ |
-| **💻 Perfil de GitHub** | https://github.com/aguilavajz |
-| **☕ Apóyame** | https://buymeacoffee.com/vinnyum |
-| **🗓️ Agenda un Café** | https://calendly.com/aguilavajz/coffee |
+| **📧 Correo Electrónico** | <v_jimenez_zdio@hotmail.com> |
+| **🔗 LinkedIn** | <https://www.linkedin.com/in/vinicio-jim%C3%A9nez/> |
+| **💻 Perfil de GitHub** | <https://github.com/aguilavajz> |
+| **☕ Apóyame** | <https://buymeacoffee.com/vinnyum> |
+| **🗓️ Agenda un Café** | <https://calendly.com/aguilavajz/coffee> |
+| **📝 Blog Técnico** | <https://insightsapex.hashnode.dev/> |
 
 ---
 
