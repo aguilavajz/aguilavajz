@@ -1,5 +1,10 @@
 <div align="center">
     <h1>Hello, World! 👋 I'm Vinny Jimenez</h1>
+
+    <img src="https://img.shields.io/badge/Oracle-Certified-red" alt="Oracle Certified">
+    <img src="https://img.shields.io/badge/Role-APEX%20Developer-orange" alt="APEX Developer">
+    <img src="https://img.shields.io/badge/Focus-High%20Performance%20PL%2FSQL-blue" alt="PL/SQL Focus">
+    <img src="https://img.shields.io/badge/Methodology-SCRUM%20Master-success" alt="Scrum Master">
 </div>
 
 ---
