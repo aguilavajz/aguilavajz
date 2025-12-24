@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
     <h1>Hello, World! 👋 I'm Vinny Jimenez</h1>
 
