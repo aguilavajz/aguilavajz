@@ -2,7 +2,6 @@
 <div align="center">
     <h1>Hello, World! 👋 I'm Vinny Jimenez</h1>
 
-    <img src="https://img.shields.io/badge/Oracle-Certified-red" alt="Oracle Certified">
     <img src="https://img.shields.io/badge/Role-APEX%20Developer-orange" alt="APEX Developer">
     <img src="https://img.shields.io/badge/Focus-High%20Performance%20PL%2FSQL-blue" alt="PL/SQL Focus">
     <img src="https://img.shields.io/badge/Methodology-SCRUM%20Master-success" alt="Scrum Master">
@@ -37,12 +36,12 @@ When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my 
 | Platform | Link |
 | :--- | :--- |
 | **📍 Location** | Guadalajara, Jalisco, México |
-| **📧 Email** | <v_jimenez_zdio@hotmail.com> |
-| **🔗 LinkedIn** | <https://www.linkedin.com/in/vinicio-jim%C3%A9nez/> |
+| **📧 Email** | <vinny@vinnyum.tech> |
+| **🔗 LinkedIn** | <https://www.linkedin.com/in/vinny-jimenez/> |
 | **💻 GitHub Profile** | <https://github.com/aguilavajz> |
 | **☕ Support Me** | <https://buymeacoffee.com/vinnyum> |
-| **🗓️ Schedule a Coffee** | <https://calendly.com/aguilavajz/coffee> |
-| **📝 Technical Blog** | <https://insightsapex.hashnode.dev/> |
+| **🗓️ Schedule a Call** | <https://calendly.com/vinnyum/intro-call> |
+| **📝 Technical Blog** | <https://insightsapex.vinnyum.tech/> |
 
 ---
 
@@ -73,12 +72,12 @@ Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico
 | Plataforma | Enlace |
 | :--- | :--- |
 | **📍 Ubicación** | Guadalajara, Jalisco, México |
-| **📧 Correo Electrónico** | <v_jimenez_zdio@hotmail.com> |
-| **🔗 LinkedIn** | <https://www.linkedin.com/in/vinicio-jim%C3%A9nez/> |
+| **📧 Correo Electrónico** | <vinny@vinnyum.tech> |
+| **🔗 LinkedIn** | <https://www.linkedin.com/in/vinny-jimenez/> |
 | **💻 Perfil de GitHub** | <https://github.com/aguilavajz> |
 | **☕ Apóyame** | <https://buymeacoffee.com/vinnyum> |
-| **🗓️ Agenda un Café** | <https://calendly.com/aguilavajz/coffee> |
-| **📝 Blog Técnico** | <https://insightsapex.hashnode.dev/> |
+| **🗓️ Agenda un Llamada** | <https://calendly.com/vinnyum/intro-call> |
+| **📝 Blog Técnico** | <https://insightsapex.vinnyum.tech/> |
 
 ---
 
