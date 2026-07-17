@@ -9,14 +9,11 @@ import random
 
 # --- CONFIGURACIÓN ---
 # Mensaje base. Puedes usar {nombre} para personalizarlo si la columna se llama 'Nombre'.
-MENSAJE_BASE = """Hola,
+MENSAJE_BASE = """Hola {nombre},
 
-Muy pronto nuestra hija María Inés celebrará sus XV años y nos encantaría que formes parte de este día tan especial. Pronto te haremos llegar la invitación formal con todos los detalles.
+Muy pronto celebraremos un evento especial y nos encantaría que formes parte de este día tan importante. Pronto te haremos llegar la invitación formal con todos los detalles.
 
-Si por alguna razón no podrás acompañarnos, avísanos por favor para tomarlo en cuenta en la organización. 🙏
-
-https://savedate.mx/ev/xvmariaines"""
-
+Si por alguna razón no podrás acompañarnos, avísanos por favor para tomarlo en cuenta en la organización."""
 # Nombre del archivo CSV
 ARCHIVO_CSV = "contacts.csv"
 
