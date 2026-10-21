@@ -4,18 +4,18 @@
 
 ---
 
-### 🇬🇧 English Profile
+## 🇬🇧 English Profile
 
 I'm a Data-Focused Developer and SCRUM Practitioner based in Guadalajara, Mexico. I specialize in building robust, high-performance enterprise solutions within the Oracle ecosystem.
 
-#### Key Expertise
+### Key Expertise
 
 * **Core Development:** Full-cycle application creation using **Oracle APEX**.
 * **Database Logic:** Deep expertise in writing and tuning **PL/SQL** (packages, stored procedures) for high-speed data processing.
 * **Methodology:** Focused on continuous value delivery through **SCRUM** and Agile principles.
 * **Passion:** Obsessed with process optimization and achieving the "perfect automation."
 
-#### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 | Category | Technologies and Tools |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I'm a Data-Focused Developer and SCRUM Practitioner based in Guadalajara, Mexico
 | **Metodología** | SCRUM (Agile) |
 | **Version Control** | Git / GitHub |
 
-#### 📬 Contact & Personal
+### 📬 Contact & Personal
 
 When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my family, specifically planning the day with my daughters, Inés and Majo. Finding that crucial work-life balance fuels my efficiency.
 
@@ -40,18 +40,18 @@ When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my 
 
 ---
 
-### 🇲🇽 Perfil en Español
+## 🇲🇽 Perfil en Español
 
 Soy un Desarrollador enfocado en Datos y un Practicante de SCRUM con base en Guadalajara, México. Me especializo en la construcción de soluciones empresariales robustas y de alto rendimiento dentro del ecosistema Oracle.
 
-#### Experiencia Clave
+### Experiencia Clave
 
 * **Desarrollo Central:** Creación de aplicaciones de ciclo completo utilizando **Oracle APEX**.
 * **Lógica de Bases de Datos:** Experiencia profunda en la escritura y optimización de **PL/SQL** (paquetes, procedimientos almacenados) para el procesamiento rápido de datos.
 * **Metodología:** Impulso la entrega continua de valor a través de **SCRUM** y principios Ágiles.
 * **Pasión:** Obsesionado con la optimización de procesos y lograr la "automatización perfecta."
 
-#### 🛠️ Stack Tecnológico y Herramientas
+### 🛠️ Stack Tecnológico y Herramientas
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
@@ -60,7 +60,7 @@ Soy un Desarrollador enfocado en Datos y un Practicante de SCRUM con base en Gua
 | **Metodología** | SCRUM (Agile) |
 | **Control de Versiones** | Git / GitHub |
 
-#### 📬 Contacto y Personal
+### 📬 Contacto y Personal
 
 Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico mi tiempo a mi familia, específicamente a planificar el día con mis hijas, Inés y Majo. Encontrar ese equilibrio crucial entre el trabajo y la vida personal impulsa mi eficiencia.
 
@@ -76,7 +76,7 @@ Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico
 
 ---
 
-### 📊 GitHub Activity (Stats)
+## 📊 GitHub Activity (Stats)
 
 Utiliza tarjetas dinámicas para mostrar tus estadísticas y lenguajes principales:
 
