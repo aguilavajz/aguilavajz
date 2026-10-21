@@ -31,7 +31,7 @@ When I'm not coding or solving a complex PL/SQL issue, I dedicate my time to my 
 | Platform | Link |
 | :--- | :--- |
 | **📍 Location** | Guadalajara, Jalisco, México |
-| **📧 Email** | <v_jimenez_zdio@hotmail.com> |
+| **📧 Email** | v_jimenez_zdio[at]hotmail[dot]com |
 | **🔗 LinkedIn** | <https://www.linkedin.com/in/vinicio-jim%C3%A9nez/> |
 | **💻 GitHub Profile** | <https://github.com/aguilavajz> |
 | **☕ Support Me** | <https://buymeacoffee.com/vinnyum> |
@@ -67,7 +67,7 @@ Cuando no estoy codificando o resolviendo un problema complejo de PL/SQL, dedico
 | Plataforma | Enlace |
 | :--- | :--- |
 | **📍 Ubicación** | Guadalajara, Jalisco, México |
-| **📧 Correo Electrónico** | <v_jimenez_zdio@hotmail.com> |
+| **📧 Correo Electrónico** | v_jimenez_zdio[at]hotmail[dot]com |
 | **🔗 LinkedIn** | <https://www.linkedin.com/in/vinicio-jim%C3%A9nez/> |
 | **💻 Perfil de GitHub** | <https://github.com/aguilavajz> |
 | **☕ Apóyame** | <https://buymeacoffee.com/vinnyum> |
